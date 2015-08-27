@@ -1,0 +1,325 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6682972908,
+                    45.534776927454
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Upright Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/upright-brewing-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.654037,
+                    45.505123
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "The Beermongers",
+                "Yelp Link": "http://www.yelp.com/biz/the-beermongers-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6559906,
+                    45.5167198
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Cascade Brewing Barrel House",
+                "Yelp Link": "http://www.yelp.com/biz/cascade-brewing-barrel-house-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6549234,
+                    45.5067878
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Baerlic Brewing Co",
+                "Yelp Link": "http://www.yelp.com/biz/baerlic-brewing-co-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6684113,
+                    45.54002
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Ex Novo Brewing Company",
+                "Yelp Link": "http://www.yelp.com/biz/ex-novo-brewing-company-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6655197,
+                    45.5160408
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Hair of the Dog Brewery and Tasting Room",
+                "Yelp Link": "http://www.yelp.com/biz/hair-of-the-dog-brewery-and-tasting-room-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6846924,
+                    45.5239792
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Fat Head's Brewery",
+                "Yelp Link": "http://www.yelp.com/biz/fat-heads-brewery-portland-3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6352234,
+                    45.4969711
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Hopworks Urban Brewery",
+                "Yelp Link": "http://www.yelp.com/biz/hopworks-urban-brewery-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6752167,
+                    45.5261917
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "PINTS",
+                "Yelp Link": "http://www.yelp.com/biz/pints-portland-2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.639,
+                    45.48497
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Gigantic Brewing Company",
+                "Yelp Link": "http://www.yelp.com/biz/gigantic-brewing-company-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.675156,
+                    45.54943
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Stormbreaker Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/stormbreaker-brewing-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.656357,
+                    45.519894
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Base Camp Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/base-camp-brewing-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65669232513,
+                    45.571656586053
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Breakside Brewery",
+                "Yelp Link": "http://www.yelp.com/biz/breakside-brewery-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6380488,
+                    45.5223762
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Coalition Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/coalition-brewing-portland-2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65857959691,
+                    45.508046348169
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Ground Breaker Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/ground-breaker-brewing-portland-2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6750989,
+                    45.5473404
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Ecliptic Brewing",
+                "Yelp Link": "http://www.yelp.com/biz/ecliptic-brewing-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66645998412,
+                    45.548857751696
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Tin Bucket",
+                "Yelp Link": "http://www.yelp.com/biz/tin-bucket-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.652138,
+                    45.523979
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Natian Brewery",
+                "Yelp Link": "http://www.yelp.com/biz/natian-brewery-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6616514,
+                    45.5606405
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Old Town Brewing Co",
+                "Yelp Link": "http://www.yelp.com/biz/old-town-brewing-co-portland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69896499813,
+                    45.477702766657
+                ]
+            },
+            "properties": {
+                "marker-color": "#CC0000",
+                "marker-symbol": "beer",
+                "Place": "Sasquatch Brewing Company",
+                "Yelp Link": "http://www.yelp.com/biz/sasquatch-brewing-company-portland-2"
+            }
+        }
+    ]
+}
