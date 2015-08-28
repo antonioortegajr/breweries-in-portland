@@ -14,7 +14,7 @@
                 "marker-color": "#CC0000",
                 "marker-symbol": "beer",
                 "Place": "Upright Brewing",
-                "Yelp Link": "<a herf=\"http://www.yelp.com/biz/upright-brewing-portland\">Click Here</a>"
+                "Yelp Link": "http://www.yelp.com/biz/upright-brewing-portland"
             }
         },
         {
