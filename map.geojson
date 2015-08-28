@@ -320,6 +320,55 @@
                 "Place": "Sasquatch Brewing Company",
                 "Yelp Link": "http://www.yelp.com/biz/sasquatch-brewing-company-portland-2"
             }
+        },
+         {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.675657,
+                45.554537
+            ]
+        },
+        "properties": {
+            "marker-color": "#CC0000",
+            "marker-symbol": "beer",
+            "Place": "Prost!",
+            "Yelp Link": "http://www.yelp.com/biz/prost-portland"
         }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.684967,
+                45.525952
+            ]
+        },
+        "properties": {
+            "marker-color": "#CC0000",
+            "marker-symbol": "beer",
+            "Place": "Rogue Distillery and Public House",
+            "Yelp Link": "http://www.yelp.com/biz/rogue-distillery-and-public-house-portland-3"
+        }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.681869,
+                45.524587
+            ]
+        },
+        "properties": {
+            "marker-color": "#CC0000",
+            "marker-symbol": "beer",
+            "Place": "Deschutes Brewery Portland Public House",
+            "Yelp Link": "http://www.yelp.com/biz/deschutes-brewery-portland-public-house-portland"
+        }
+    }
+
     ]
 }
