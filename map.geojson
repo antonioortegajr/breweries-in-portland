@@ -305,22 +305,6 @@
                 "Yelp Link": "http://www.yelp.com/biz/old-town-brewing-co-portland"
             }
         },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.69896499813,
-                    45.477702766657
-                ]
-            },
-            "properties": {
-                "marker-color": "#CC0000",
-                "marker-symbol": "beer",
-                "Place": "Sasquatch Brewing Company",
-                "Yelp Link": "http://www.yelp.com/biz/sasquatch-brewing-company-portland-2"
-            }
-        },
          {
         "type": "Feature",
         "geometry": {
