@@ -368,7 +368,22 @@
             "Place": "Deschutes Brewery Portland Public House",
             "Yelp Link": "http://www.yelp.com/biz/deschutes-brewery-portland-public-house-portland"
         }
+    },
+    {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -122.684814,
+                45.531370,
+            ]
+        },
+        "properties": {
+            "marker-color": "#CC0000",
+            "marker-symbol": "beer",
+            "Place": "Bridgeport Brewing Company",
+            "Yelp Link": "http://www.yelp.com/biz/bridgeport-brewing-company-portland-2"
+        }
     }
-
     ]
 }
